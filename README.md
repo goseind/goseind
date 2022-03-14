@@ -1,4 +1,5 @@
-### Hi there 👋
+![GitHubReadmeBanner](GitHubReadmeBanner.png)
+### Hi there I'm Domenic👋
 
 <!--
 **goseind/goseind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
