@@ -6,9 +6,10 @@ I'm a Software/Site Reliability Engineer. My tech stack includes Python, Ruby an
 ## GitHub Stats
 
 [![Domenic's GitHub stats](https://github-readme-stats.vercel.app/api?username=goseind)](https://github.com/goseind)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goseind&layout=compact)](https://github.com/goseind)
 
 ## Where else to find me
-* LinkedIn:
-* My Blog:
-* GitLab:
-* StackOverflow:
+* LinkedIn: http://www.linkedin.com/in/goseind
+* My Blog: https://gosein.de
+* GitLab: @edekadomenic
+* StackOverflow: @goatw
