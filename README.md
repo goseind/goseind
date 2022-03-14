@@ -1,17 +1,14 @@
 ![GitHubReadmeBannerWelcome](GitHubReadmeBannerWelcome.png)
-### Hi there I'm Domenic👋
+### Hi there I'm Domenic 👋
 
-<!--
-**goseind/goseind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software/Site Reliability Engineer. My tech stack includes Python, Ruby and C. I manage code with Git and Visual Studio Code on Ubuntu Linux and use Docker, Kubernetes, Terraform and GitHub Actions to deploy code to Azure or GCP. I’m deeply interested in the fundamental laws of nature and my goal is to work in a field where I can contribute to technological progress.
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Domenic's GitHub stats](https://github-readme-stats.vercel.app/api?username=goseind)](https://github.com/goseind)
+
+## Where else to find me
+* LinkedIn:
+* My Blog:
+* GitLab:
+* StackOverflow:
