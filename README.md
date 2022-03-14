@@ -10,6 +10,6 @@ I'm a Software/Site Reliability Engineer. My tech stack includes Python, Ruby an
 
 #### Where else to find me
 * LinkedIn: http://www.linkedin.com/in/goseind
-* My Blog: https://gosein.de
+* My Blog: https://www.gosein.de
 * GitLab: @edekadomenic
 * StackOverflow: @goatw
