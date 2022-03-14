@@ -1,4 +1,4 @@
-![GitHubReadmeBanner](GitHubReadmeBanner.png)
+![GitHubReadmeBannerWelcome](GitHubReadmeBannerWelcome.png)
 ### Hi there I'm Domenic👋
 
 <!--
