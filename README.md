@@ -1,4 +1,4 @@
-### Hi there, I'm Domenic 👋
+### Hi there, I'm Dom 👋
 
 ![GitHubReadmeBannerWelcome](banner-cern.png)
 
